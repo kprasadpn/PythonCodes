@@ -30,4 +30,4 @@ jobs:
     - name: Run Python Script
       run: |
         echo "Running purchase script..."
-        python PythonFunction.py
+        python Generic-Codes/PythonFunction.py
